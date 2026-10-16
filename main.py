@@ -11,7 +11,7 @@ api_key = os.getenv("NOTION_API_KEY")
 
 notion = Client(auth=api_key)
 
-audio_file = client.files.upload(file="/Users/romans/Desktop/Projects/Ducky/voice.mp3")
+audio_file = client.files.upload(file="/Users/Roman/Desktop/Projects/Ducky/recording.mp3")
 
 interaction = client.interactions.create(
     model="gemini-3.5-transcribe",

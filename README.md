@@ -11,7 +11,5 @@ This is my b2b Saas + Hardware. Assistant that Actually helps you! + Some featur
 - Idea mode to track ideas
 - Todo mode to track your TODO's
 
-# TODO
-- Make an app that can track ideas from a mic source such as my phone
 
 

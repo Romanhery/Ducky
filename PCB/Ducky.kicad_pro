@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber Files/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -670,6 +670,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -720,7 +726,7 @@
         "uuid": "2bddc410-6263-4836-8f7c-c538e1c91552"
       }
     ],
-    "used_designators": "R1-2,#PWR8-11,D1-2,SW1-2",
+    "used_designators": "J3-4,U2",
     "variants": []
   },
   "sheets": [

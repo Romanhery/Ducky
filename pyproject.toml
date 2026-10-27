@@ -1,5 +1,0 @@
-[dependency-groups]
-dev = [
-    "pyaudio>=0.2.14",
-    "wisprflow-sdk>=0.1.3",
-]

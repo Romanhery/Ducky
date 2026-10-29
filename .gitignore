@@ -5,3 +5,4 @@
 .env
 uv.lock
 pyproject.toml
+PCB/.history/
